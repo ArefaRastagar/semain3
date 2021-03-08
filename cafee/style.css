@@ -1,0 +1,45 @@
+header{
+    background-color: black;
+    color: white;
+    }
+
+li {
+    display: inline-block;
+    padding: 20px 10px
+    }
+ul{ padding-left: 1070px;}
+img{
+    position: relative;
+    background-size: 150px;
+    width: 1330px;
+    height: 500px;
+}
+
+h2{
+    color: white;
+    margin-top: 15px;
+    position: absolute;
+    text-align: center;
+    top: 290px;
+    left: 490px;
+}
+
+div{
+    color: white;
+    margin-top: 15px;
+    position: absolute;
+    text-align: center;
+    top: 360px;
+    left: 440px;
+}
+
+section2{
+    display: inline-block;
+    text-align: center;
+    margin: 50px;
+    padding-left: 500px;
+}
+section2{
+float: left;}
+    
+

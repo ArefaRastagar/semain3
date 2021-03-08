@@ -1,0 +1,20 @@
+h1{
+    background-color: #006666;
+    color: white;}
+h2{
+    margin: 10px;
+    text-decoration: underline orangered;}
+h3{
+    margin: 15px;}
+h4{
+    color: tomato;}
+div{
+    margin-left: 20px;
+    background-color: #f5f5ec;
+}
+h4{
+    margin-left: 20px;
+}
+a{
+    color: blue;
+}

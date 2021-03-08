@@ -1,0 +1,17 @@
+div{
+    background-color: red;
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    margin-left:50px;
+} 
+.carre2{margin-left: 250px;
+    background-color: aquamarine;
+    margin-bottom: 50px;
+    }
+
+    .carre1{
+        padding-left: 50px;
+        padding-top: 40px;
+
+    }

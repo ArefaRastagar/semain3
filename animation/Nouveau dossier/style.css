@@ -1,0 +1,22 @@
+div{
+    width: 400px;
+    height: 400px;
+    background-color: gray;
+}
+
+img{
+    width: 220px;
+    height: 220px;
+    border-radius: 100px;
+}
+.cadre img{
+    position: absolute;
+    right: -100%;
+    transition: all .0.s;
+simplon{
+        display: inline-block;
+        margin: 0 0.5rem;
+
+        root {
+            --animate-delay: 2s;
+          }
